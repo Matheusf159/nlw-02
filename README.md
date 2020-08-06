@@ -5,7 +5,6 @@ Projeto desenvolvido na 2° edição da Next Level Week da Rocketseat onde foi u
 
 <h2><strong>:pushpin: Objetivo</strong></h2>
 
-A aplicação tem como objetivo disponibilizar locais pontos de coletas, tais como os tipos de resíduos coletados nos estados e municípios. A versão Web da aplicação permite o cadastro dos pontos de coleta que serão acessíveis na versão mobile.
 
 <h3>:computer:Versão Web</h3>
 
