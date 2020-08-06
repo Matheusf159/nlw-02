@@ -30,22 +30,22 @@ Clone esse repositório e instale e/ou execute (pelo terminal):
 
 <h3> Na API Server: </h3>
 
-As dependências (instale): npm install <br>
-As migrates (execute): npm knex:migrate <br>
-Os seeds (execute): npm knex:seed <br>
-Para executar o server (execute): npm run dev <br>
+As dependências (instale): yarn install <br>
+As migrates (execute): yarn knex:migrate <br>
+Os seeds (execute):  knex:seed <br>
+Para executar o server (execute): yarn start <br>
 Obs: será executada na porta 3333
 
 
 <h3> No Front-End: </h3>
-As dependências (instale): npm install <br>
-Para executar o front-end (execute):  npm start <br>
+As dependências (instale): yarn install <br>
+Para executar o front-end (execute):  yarn start <br>
 Obs: será executada na porta: 3000
 
 
 <h3> No Mobile: </h3>
-As dependências (instale): npm install <br>
-Para executar o mobile (execute):  npm start. <br>
+As dependências (instale): yarn install <br>
+Para executar o mobile (execute):  yarn start. <br>
 Obs: o expo irá abrir no browser com um QRCode, então será preciso ter baixado o app Expo para fazer a escaneação. <br>
 Obs: Para instalar as fontes (execute): expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 
