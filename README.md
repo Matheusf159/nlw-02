@@ -47,5 +47,5 @@ Obs: será executada na porta: 3000
 As dependências (instale): yarn install <br>
 Para executar o mobile (execute):  yarn start. <br>
 Obs: o expo irá abrir no browser com um QRCode, então será preciso ter baixado o app Expo para fazer a escaneação. <br>
-Obs: Para instalar as fontes (execute): expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
+Obs: Para instalar as fontes (execute): expo install expo-font @expo-google-fonts/archivo @expo-google-fonts/poppins
 
