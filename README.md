@@ -9,16 +9,30 @@ Projeto desenvolvido na 2° edição da Next Level Week da Rocketseat onde foi u
 <h3>:computer:Versão Web</h3>
 
 
+<img alt="1w" src=".github/1w.png" width="500px" />
+<img alt="2w" src=".github/2w.png" width="500px"/>
+<img alt="3w" src=".github/3w.png" width="400px" height="600px"/>
+
+
+
+<br>
+
 <h3>:iphone:Versão Mobile</h3>
 
+<div>
+    <img alt="1m" src=".github/1m.png" width="170px" align="left"/>
+    <img alt="2m" src=".github/2m.png" width="170px" align="left"/>
+    <img alt="3m" src=".github/3m.png" width="170px" align="center"/>
+    <img alt="4m" src=".github/4m.png" width="170px" align="left""/>
+    <img alt="5m" src=".github/5m.png" width="170px" align="left"/>
+</div>
 
 
 <h2><strong>:satellite: Tecnologias</strong></h2>
-<h3>Versão Web: React + TypeScript</h3>
 
-<h3>Versão Mobile: React-Native + TypeScript</h3>
-
-<h3>Back-end: NodeJS + TypeScript</h3>
+Versão Web: React + TypeScript
+Versão Mobile: React-Native + TypeScript
+Back-end: NodeJS + TypeScript
 
 
 <h6>* Para verificar as tecnologias mais detalhadamente, acesse o package.json</h6>
