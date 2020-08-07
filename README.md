@@ -21,11 +21,11 @@ A versão Web da aplicação permite o cadastro de Proffy(professsores) cada qua
 <h3>:iphone:Versão Mobile</h3>
 
 <div>
-    <img alt="1m" src=".github/1m.png" width="160px" align="left"/>
-    <img alt="2m" src=".github/2m.png" width="160px" align="left"/>
-    <img alt="3m" src=".github/3m.png" width="160px" align="center"/>
-    <img alt="4m" src=".github/4m.png" width="160px" align="left""/>
-    <img alt="5m" src=".github/5m.png" width="160px" align="left"/>
+    <img alt="1m" src=".github/1m.png" width="150px" align="left"/>
+    <img alt="2m" src=".github/2m.png" width="150px" align="left"/>
+    <img alt="3m" src=".github/3m.png" width="150px" align="center"/>
+    <img alt="4m" src=".github/4m.png" width="150px" align="left""/>
+    <img alt="5m" src=".github/5m.png" width="150px" align="left"/>
 </div>
 
 
