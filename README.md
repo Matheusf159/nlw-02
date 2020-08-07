@@ -5,9 +5,10 @@ Projeto desenvolvido na 2° edição da Next Level Week da Rocketseat onde foi u
 
 <h2><strong>:pushpin: Objetivo</strong></h2>
 
+A aplicação tem como objetivo facilitar a comunicação entre alunos e professores, tais como agendar cada professor de acordo com sua matéria afim de ministrar a aula. 
+A versão Web da aplicação permite o cadastro de Proffy(professsores) cada qual com a sua matéria, horário e custo que serão acessíveis na versão mobile.
 
 <h3>:computer:Versão Web</h3>
-
 
 <img alt="1w" src=".github/1w.png" width="500px" />
 <img alt="2w" src=".github/2w.png" width="500px"/>
